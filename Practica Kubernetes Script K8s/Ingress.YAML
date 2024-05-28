@@ -4,7 +4,7 @@ metadata:
   name: webapi-ingress
 spec:
   rules:
-  - host: api.JGarcia.com
+  - host: api.jgarcia.com
     http:
       paths:
       - path: /
