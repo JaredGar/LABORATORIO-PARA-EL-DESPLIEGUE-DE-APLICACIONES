@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: webapi
-        image: jaredgj/webapi:latest
+        image: jaredgj/WebApi:latest
         ports:
         - containerPort: 80
 
